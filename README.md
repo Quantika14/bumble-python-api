@@ -78,7 +78,7 @@ match_details = api.get_matches_details("match_id_123")
 print(match_details)
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under GNU GENERAL PUBLIC LICENSE.
 
 # Example
 ```
